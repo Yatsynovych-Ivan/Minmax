@@ -1,1 +1,1 @@
-# Minmax
+# Minmax-This file contains a simple code that finds the maximum and minium value in an array of three numbers
